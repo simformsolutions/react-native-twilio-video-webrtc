@@ -60,6 +60,7 @@ import com.twilio.video.Video;
 import com.twilio.video.VideoConstraints;
 import com.twilio.video.VideoDimensions;
 import com.twilio.video.VideoView;
+import com.twilio.video.AspectRatio;
 
 import org.webrtc.voiceengine.WebRtcAudioManager;
 
